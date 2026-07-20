@@ -11,8 +11,8 @@ The goal of this project is to build a functional prototype that demonstrates em
 - [x] Purchased Arduino Nano ESP32
 - [x] Purchased PCA9685 servo driver
 - [x] Identified need for soldered headers on MyoWare VIN/GND/ENV pins
-- [ ] Solder MyoWare header pins
-- [ ] Test raw EMG readings
+- [x] Solder MyoWare header pins
+- [x] Test raw EMG readings
 - [ ] Test PCA9685 servo movement
 - [ ] Combine EMG input with servo actuation
 - [ ] Print and test one tendon-driven finger
