@@ -13,8 +13,8 @@ The goal of this project is to build a functional prototype that demonstrates em
 - [x] Identified need for soldered headers on MyoWare VIN/GND/ENV pins
 - [x] Solder MyoWare header pins
 - [x] Test raw EMG readings
-- [ ] Test PCA9685 servo movement
-- [ ] Combine EMG input with servo actuation
+- [x] Test PCA9685 servo movement
+- [x] Combine EMG input with servo actuation
 - [ ] Print and test one tendon-driven finger
 - [ ] Build full hand prototype
 
